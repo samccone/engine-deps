@@ -12,13 +12,13 @@ In package.json add a new `engine-deps` section:
 {
   "engine-deps": {
     "0.12.x": {
-      "backbone@1.0.x"
+      "backbone": "1.0.x"
     },
     "0.10.x": {
-      "backbone@1.1.x"
+      "backbone": "1.1.x"
     },
     "^4": {
-      "backbone@1.2.x"
+      "backbone": "1.2.x"
     }
   }
 }
