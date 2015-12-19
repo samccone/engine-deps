@@ -1,10 +1,23 @@
-#### Engine deps
+<p align="center">
+<h3 align="center">Engine Deps</h3>
+</p>
+<hr/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/samccone/engine-deps/gh-pages/engine.png" width="600px">
+<a href="https://travis-ci.org/samccone/engine-deps"></br></br><img src="https://travis-ci.org/samccone/engine-deps.svg?branch=master"></a>
+</p>
 
-[![Build Status](https://travis-ci.org/samccone/engine-deps.svg?branch=master)](https://travis-ci.org/samccone/engine-deps)
+<h4 align="center">
+<pre>
+npm i --save-dev engine-deps
+</pre>
+</h4>
 
-Install dependencies depending on the version of node.
+#### What:
 
-#### Using
+Manage Engine Specific dependencies with ease.
+
+#### How:
 
 In package.json add a new `engine-deps` section:
 
