@@ -24,12 +24,12 @@ In package.json add a new `engine-deps` section:
 }
 ```
 
-Then add a new postinstall hook
+Then add a new install hook
 
 ```json
 {
   "scripts": {
-    "postinstall": "engine-deps"
+    "install": "engine-deps"
   }
 }
 ```
