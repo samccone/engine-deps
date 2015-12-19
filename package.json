@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "engine-deps": "bin/engine-deps.js"
+  },
+  "dependencies": {
+    "npm": "^3.5.2",
+    "semver": "^5.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
