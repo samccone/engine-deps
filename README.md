@@ -49,4 +49,4 @@ Then add a new install hook
 
 ##### IRL Examples
 
-* [https://github.com/mounirlamouri/manifest-validator](https://github.com/samccone/manifest-validator/commit/e32bcfa26cd057d442534c28c1499a84af1ffa7d)
+* [https://github.com/mounirlamouri/manifest-validator](https://github.com/mounirlamouri/manifest-validator/blob/0df7775d79b59232800656db69128f34bfdd21e7/package.json#L8-L26)
